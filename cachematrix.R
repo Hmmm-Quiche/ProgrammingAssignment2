@@ -1,4 +1,4 @@
-## create a matrix objects
+## create a matrix object
 ## methods:
 ##      set - sets matrix
 ##      get - return matrix
